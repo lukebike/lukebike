@@ -8,7 +8,7 @@ I've started dabbling in code at a younger age with Unity to make some simple mo
 
 * 🌍  I'm based in Malmö, Sweden
 * 🧠  I'm learning React to polish my frontend skills while maintaining my backend skills with Java.
-* 🚀  Check out one of my personal projects at https://cocktailapi-lukesalem.netlify.app/#
+* 🚀  Check out my portfolio at https://lukesalem.netlify.app/
 * 🤝  I'm open to collaborating on React, Spring Boot, or Java and Javascript projects in general
 * ⚡  I'm secretly a caffeine addict, it's the perfect programmer elixir
 
