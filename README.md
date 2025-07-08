@@ -7,7 +7,7 @@ Fullstack Developer
 I've started dabbling in code at a younger age with Unity to make some simple mobile games and moved on to the more personally fulfilling path of web development which led to me Studying Fullstack Development at Teknikhögskolan in Lund.
 
 * 🌍  I'm based in Malmö, Sweden
-* 🧠  I'm learning React to polish my frontend skills while maintaining my backend skills with Java.
+* 🧠  I enjoy working on projects that are front, back-end or ones that combine the full-stack. I am currently learning React by building projects, my portfolio being one of them.
 * 🚀  Check out my portfolio at https://lukesalem.netlify.app/
 * 🤝  I'm open to collaborating on React, Spring Boot, or Java and Javascript projects in general
 * ⚡  I'm secretly a caffeine addict, it's the perfect programmer elixir
