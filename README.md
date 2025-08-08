@@ -9,7 +9,7 @@ I've started dabbling in code at a younger age with Unity to make some simple mo
 * 🌍  I'm based in Malmö, Sweden
 * 🖥️  See my portfolio at [Luke Salem](http://lukesalem.netlify.app/)
 * ✉️  You can contact me at [lukesalem2002@gmail.com](mailto:lukesalem2002@gmail.com)
-* 🚀  I'm currently working on [Min Bibliotek](http://github.com/lukebike/library-system-website)
+* 🚀  I'm currently working on [My Bibliotek](http://github.com/lukebike/library-system-website)
 * 🧠  I'm learning how to integrate frontend with the backend, e.g: React + Spring Boot
 * 🤝  I'm open to collaborating on Java (Spring) or Javascript/Typescript (React) projects
 * ⚡  I'm secretly a coffee addict, don't tell anyone my superpower
