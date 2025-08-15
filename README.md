@@ -1,4 +1,4 @@
-Hi 👋 My name is Luke Salem
+Hi, I'm Luke Salem
 ===========================
 
 Fullstack Developer
