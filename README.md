@@ -1,7 +1,7 @@
 Hi, I'm Luke Salem
 ===========================
 
-Fullstack Developer
+React, Typescript, Java and Spring Fullstack Developer
 -------------------
 
 My journey in tech began at a young age, experimenting with Unity to create simple mobile games. Over time, my passion shifted toward more towards the world of web development, a path that ultimately led me to pursue Fullstack Development studies at Teknikhögskolan in Lund.
