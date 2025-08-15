@@ -4,7 +4,7 @@ Hi, I'm Luke Salem
 Fullstack Developer
 -------------------
 
-I've started dabbling in code at a younger age with Unity to make some simple mobile games and moved on to the more personally fulfilling path of web development which led to me Studying Fullstack Development at Teknikhögskolan in Lund.
+My journey in tech began at a young age, experimenting with Unity to create simple mobile games. Over time, my passion shifted toward more towards the world of web development, a path that ultimately led me to pursue Fullstack Development studies at Teknikhögskolan in Lund.
 
 * 🌍  I'm based in Malmö, Sweden
 * 🖥️  See my portfolio at [Luke Salem](http://lukesalem.netlify.app/)
